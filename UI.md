@@ -9,3 +9,6 @@ https://stackoverflow.com/questions/17642872/refresh-page-and-keep-scroll-positi
 ### load script tags with async and preconnect
 https://flaviocopes.com/javascript-async-defer/
 https://developers.google.com/web/fundamentals/performance/resource-prioritization#preconnect
+
+### performant websites
+https://gomakethings.com/how-to-build-a-website-that-loads-in-under-a-second/
