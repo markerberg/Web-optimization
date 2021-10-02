@@ -12,3 +12,6 @@ https://developers.google.com/web/fundamentals/performance/resource-prioritizati
 
 ### performant websites
 https://gomakethings.com/how-to-build-a-website-that-loads-in-under-a-second/
+
+### scaling
+https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d
